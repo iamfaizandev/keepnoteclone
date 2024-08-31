@@ -1,0 +1,19 @@
+.mainPage {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  /* margin-top: 5%;
+  margin-right: 10%; */
+}
+.card-footer i {
+  font-size: 1rem;
+}
+.task-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  margin-top: 10%;
+  margin-right: 10%;
+}
